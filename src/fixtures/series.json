@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "image": "/images/series/comedies/arrested-development/small.jpg",
+      "alt": "Arrested Development"
+    },
+    {
+      "id": 2,
+      "image": "/images/series/comedies/curb-your-enthusiasm/small.jpg",
+      "alt": "Curb Your Enthusiasm"
+    },
+    {
+      "id": 3,
+      "image": "/images/series/comedies/family-guy/small.jpg",
+      "alt": "Family Guy"
+    },
+    {
+      "id": 4,
+      "image": "/images/series/comedies/south-park/small.jpg",
+      "alt": "South Park"
+    },
+    {
+      "id": 5,
+      "image": "/images/series/comedies/the-office/small.jpg",
+      "alt": "The Office"
+    }
+]
+    

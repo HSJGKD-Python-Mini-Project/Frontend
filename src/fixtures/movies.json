@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "image": "/images/films/children/despicable-me/small.jpg",
+      "alt": "Despicable Me"
+    },
+    {
+      "id": 2,
+      "image": "/images/films/children/hotel-transylvania/small.jpg",
+      "alt": "Hotel Transylvania"
+    },
+    {
+      "id": 3,
+      "image": "/images/films/children/up/small.jpg",
+      "alt": "Up"
+    },
+    {
+      "id": 4,
+      "image": "/images/films/children/frozen/small.jpg",
+      "alt": "Frozen"
+    },
+    {
+      "id": 5,
+      "image": "/images/films/children/spirited-away/small.jpg",
+      "alt": "Up"
+    }
+]
+    
